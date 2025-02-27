@@ -1,0 +1,3 @@
+N<-as.integer(readline(prompt="enter the numer:"))
+n<-as.integer(readline(prompt="enter the number:"))
+N+n
